@@ -104,3 +104,4 @@ Redis Enterprise has two durability options:
     confirm that write. This makes sure that a write confirmed with WAIT on
     replicas are durable even if a node catches on fire and never
     comes back to the cluster.
+- Test
